@@ -1,0 +1,424 @@
+num_ech;nom_ech
+22N801201;Carmoran
+22N801204;Bel Air
+22N801207;La Ville Cario
+22N801210;Yffiniac Nord
+22N801213;Plerneuf
+22N801216;Ploumagoar
+22N801219;Porz An Park
+22N817604;Pays de Plélan Nord
+22N817605;Pays de Plélan Sud
+22N901201;St Jouan de l'Isle
+22N901201B;Kergoet
+22N901202;Recouvrance
+22N901203;Le Chalet
+22N901204;Les Dineux
+22N901205;Les Bois Orieux
+22N901206;Les Vallées
+22N901208;La croix de l'épine
+22N901209;Le Bois de Boudan
+22N901210;Carmoran
+22N901211;La croix Nogués
+22N901212;La Petite Chapelle
+22N901213;La Corne de Cerf
+22N901214;Le Petit Lamballe
+22N901215;La Ville Es Lan
+22N901216;Les Landes
+22N901217;Ste Anne
+22N901218;St René
+22N901219;La Baie
+22N901220;Le Perray
+22N901221;Jules Verne
+22N901222;Chaptal
+22N901223;Corneille
+22N901224;Rohannec'h
+22N901225;La Prunelle
+22N901226;Les rosaires
+22N901227;Les Rampes
+22N901228;Le Sépulcre
+22N901229;Aéroport
+22N901230;La Barricade
+22N901231;La Braguette
+22N901232;Kertedevant
+22N901233;Kerbouillen
+22N901234;Coat An Doc'h
+22N901235;Lautremen
+22N901236;Bellevue
+22N901237;La Chesnaye
+22N901238;ZI de Grâces
+22N901239;Tolmine
+22N901240;Kernilien
+22N901241;Kerrouan
+22N901242;Laluzon
+22N901243;St Paul
+22N901244;La Vieille Côte
+22N901245;Porz An Park
+22N901246;Beg Ar C'hra
+22N901247;Bon Voyage
+22N916401;La Gautraie
+22N916402;Les Trois Moineaux
+22N916403;La Racine
+22N916404;Merdrignac
+22N916407;Tertignon
+22N916408;La lande aux chiens
+22N916409;Le Billiac
+22N916410;Les Parpareux
+22N916411;La Bellière
+22N916412;Le Chaffaud
+22N916413;Launay Grésillon
+22N916414;La ville Donio
+22N916415;Bel Air
+22N916416;Le Zelo
+22N916417;Rosquelfen
+22N916418;Ker Laurent
+22N916419;RD790
+22N916432;La Pie
+22N917601;Plouer
+22N917602;Grignardais
+22N917603;St Samson sur Rance
+22N917604;Dombriand
+22N917605;Les Alleux
+22N917606;La Bezardais
+22N917607;Vildé
+22N917608;Plélan Le petit
+22N917609;Jugon
+22N917610;Les Quatre Routes
+29N801201;Saint-Servais
+29N816501;Saint-Yvi
+29N816504;Pont de Buis
+29N901201;Les Quatre Chemins
+29N901202;Kerdilés
+29N901203;Langolvas
+29N901204;Coat congar
+29N901205;La Boissière
+29N901206;Le Launay
+29N901207;Keriven
+29N901208;Penn Prad
+29N901209;Mez Menes
+29N901210;Kermat
+29N901211;Le Vern
+29N901212;La Croix des Maltotiers
+29N901213;Prad Ledan
+29N901214;Keriel
+29N901215;St Eloi
+29N901216;Croas ar Neizic
+29N901217;Lanvian
+29N901219;Prat pip
+29N901220;Kervao
+29N916401;Kergorvo
+29N916402;Kerdiwal
+29N916403;Botaval
+29N916404;Pont Triffen
+29N916405;Kroaz Lesneven
+29N916405B;Magorwenn
+29N916406;Ti Blêz
+29N916407;Morvaned
+29N916408;Kroaz an Dreverz
+29N916409;Kroaz Ru
+29N916501;Kerfleury
+29N916502;Kergostiou
+29N916503;Kervidanou
+29N916504;Kerandréo
+29N916505;Kerampaou
+29N916506;Coat-Conq
+29N916507;Troyalac'h
+29N916508;Rouilhenn
+29N916509;Al loc'h
+29N916510;Gouvily
+29N916511;Park Poullig
+29N916512;Kerlez
+29N916513;An Teir C'hroaz
+29N916514;Ti Hemon
+29N916515;Ar Pouilhod
+29N916516;Ti Raden
+29N916517;Kergaerig
+29N916518;Kiella
+29N916519;Bel Air
+29N916520;Pontaol
+29N916521;Kernevez
+29N916522;Ar C'Hranj
+29N916523;Ar C'Hoadig
+29N916524;Ti ar Menez - N°69
+29N916525;Roc'h Kerezen
+29N916526;Keralliou
+29N916527;Kergleuz
+29N926501;Froutven
+35A808401;La Chaîne
+35A808402;La Lande
+35A808405;Coglès Est
+35A808406;Coglès Ouest
+35A908425;Thorigné-Fouillard
+35A908426;Liffré Ouest
+35A908427;Liffré Est
+35A908428;St Aubin du Cormier
+35A908429;St Sauveur des Landes
+35A908430;St Etienne en Coglès
+35A908431;Coglès
+35N801201;Armor et Argoat
+35N801202;Pays de Rennes
+35N802401;Paimpont-Brocéliande
+35N802404;Breil du Coq
+35N813701;Pomméniac
+35N813704;La Berlaudais
+35N813708;Le Hil
+35N815701;Erbrée
+35N815702;Mondevert
+35N901203;Pacé
+35N901205;Pont de Pacé
+35N901207;St Gilles
+35N901209;Pleumeleuc
+35N901211;Bédée
+35N901213;Bédée Ouest
+35N901215;La Gautrais
+35N901217;Montauban
+35N901218;La Gibonnais
+35N901219;La Brohinière
+35N901220;Le Crouais
+35N901221;Quédillac
+35N902401;Le Rheu
+35N902405;La Noë Gérard
+35N902407;La Haichois
+35N902409;Cramoux
+35N902411;Bellevue
+35N902412;La Coudraie
+35N902413;Cossinade
+35N902414;La Hardinais
+35N902415;Treffendel
+35N902417;La Pointe 35
+35N913601;Porte de La Rigourdière
+35N913602;Porte de La Valette
+35N913603;Porte de Beaulieu
+35N913604;Le Breillou
+35N913605;Porte des Loges
+35N913606;Porte du Blosne/Angers
+35N913609;Porte d'Alma/Nantes
+35N913610;Porte de Bréquigny
+35N913611;Porte de St Nazaire
+35N913612;Porte de Cleunay
+35N913613;Porte de Lorient
+35N913614;Porte de Brest
+35N913615;Porte de Villejean
+35N913617;Porte de Beauregard/St Malo
+35N913618;Porte de Maurepas
+35N913619;Porte des Longs Champs
+35N913620;Porte de Normandie
+35N913621;Porte de Tizé
+35N913703;Les Quatre Routes
+35N913705;La Fossardais
+35N913707;Cogneuf
+35N913709;La Guédelais
+35N913711;Poligné
+35N913713;Bel Air
+35N913715;Crevin
+35N913717;L'Hermitière
+35N913719;Bout de Lande
+35N913721;Bout de Lande 2
+35N913723;La Lande de Tellé
+35N913725;La Touche Eon
+35N913727;La Contrie
+35N915701;Le Relais
+35N915702;Mondevert
+35N915703;Piquet
+35N915705;Montigné
+35N915707;Chateaubourg
+35N915709;Olivet
+35N915711;Croix Rouge
+35N915713;Maison Neuve
+35N915715;Noyal Ouest
+35N915716;La Rigourdière
+35N916405;St Méen Est
+35N916407;St Méen Sud
+35N916409;St Méen Ouest
+35N917601;St Georges de Grehaigne
+35N917604;Roz-sur-Couesnon
+35N917607;Dol Est
+35N917608;Dol Ouest
+35N917609;Roz landrieux
+35N917610;Plerguer
+35N917611;La Chesnaie
+35N917612;La Ville es Nonais
+44A808301;Vertou
+44A808302;La Grassinière
+44A908201;Porte d'Orvault
+44A908202;L'Espérance
+44A908305;La Courneuve
+44A981101;La Madeleine
+44A981102;Linot
+44A981103;Vieille ville
+44A984437;Porte de Rennes
+44N813701;Trellières Est
+44N813702;Trellières Ouest
+44N813705;Puceul Est
+44N813706;Puceul Ouest
+44N816501;Vigneux
+44N817104;Trignac
+44N824901;Vallet
+44N884401;La Chapelle sur Erdre
+44N884404;La Divatte
+44N884407;Rezé
+44N884408;Bouguenais
+44N913702;Ragon
+44N913703;Erette
+44N913704;La Bosse des Landes
+44N913705;Héric
+44N913706;Bout de Bois
+44N913707;Saffré
+44N913708;Puceul
+44N913709;Sainte Marie
+44N913710;Nozay
+44N913711;Nozay Nord
+44N913712;Bellevue
+44N913713;Le Mortier
+44N913714;Derval Nord
+44N913715;Mouais
+44N916502;Tournebride
+44N916502B;La Roche
+44N916503;Les 4 Nations
+44N916504;Le Temple
+44N916505;Le Temple 2
+44N916505A;La Croix Rouge
+44N916505B;Kerlan
+44N916505C;Le Lièvreau
+44N916506;Malville
+44N916506B;Le Point du jour
+44N916507;La Moëre
+44N916508;La Justice
+44N916509;Le Tillon
+44N916510;Les 4 Vents
+44N916511;L'abbaye
+44N916512;La Hirtais
+44N916513;La Grivolais
+44N916514;Beaulieu (Le Calvaire)
+44N916515;Missillac
+44N916516;Le Pigeon Vert
+44N917101;Le Canyon
+44N917102;La Sablière
+44N917103;Prinquiau
+44N917104;Les Six Croix
+44N917105;Le Priory
+44N917106;Les Noës
+44N917107;Montoir
+44N917108;Trignac
+44N917109;Certé
+44N924901;La Vallée Maraichère
+44N924902;Les Epinettes
+44N924903;Tournebride
+44N924904;Vallet
+44N944401;Marcel Paul
+44N944402;La Rousselière
+44N944403;La Barrière Noire
+44N984430;Porte de l'Estuaire
+44N984431;Porte de St Herblain
+44N984432;Porte Atlantis
+44N984433;Porte d'Armor
+44N984434;Porte de Chézine
+44N984435;Porte de Sautron
+44N984436;Porte d'Orvault
+44N984439;Porte de la Chapelle
+44N984440;Porte de la Beaujoire
+44N984441;Porte de Carquefou
+44N984442;Porte de Ste Luce
+44N984443;Porte d'Anjou
+44N984444;Porte du Vignoble
+44N984445;Porte de Goulaine
+44N984446;Porte de St Sébastien
+44N984447;Porte de Vertou
+44N984448;Porte des Sorinières
+44N984449;Porte de Rezé
+44N984450;Porte de Retz
+44N984451;Porte de Grand-Lieu
+44N984452;Porte de Bouguenais
+49A908701;Sortie autoroute A87 (ASF) ? ANGERS
+49N924901;Tillières
+49N924902;St Germain sur Moine
+49N924903;St André de la marche
+49N924904;La Bergerie
+49N924905;La Séguinière
+49N924906;Le Cormier
+49N924907;Cholet
+49N924908;A87
+49N924909;La Tessoualle
+53N801204;La Côte des Cheminées
+53N901201;Mayenne
+56N802401;Brocéliande Nord
+56N802402;Brocéliande Sud
+56N802405;La Colonne des Trente
+56N802408;La Pointe
+56N816501;Marzan
+56N816504;Theix Nord
+56N816507;Theix Sud
+56N816510;Plougoumelen
+56N816513;Saint-Goustan
+56N816516;Boul Sapin
+56N816519;Guidel Nord
+56N816522;Guidel Sud
+56N816601;Saint Nolff
+56N816604;Landes de Lanvaux
+56N816607;Maquis de la Nouette
+56N902401;Guer
+56N902402;Campénéac
+56N902403;Ronsouze
+56N902404;St Antoine
+56N902405;Ploermel-Ouest
+56N902406;Abbaye aux Oies
+56N902407;La Belle Alouette
+56N902408;Bellevue
+56N902409;Mare St Julien
+56N902410;Caradec
+56N902411;La Pointe 56
+56N902412;Maigris
+56N902413;Point du Jour
+56N902414;Le Bardeff
+56N902415;Kérosette
+56N902416;Kerabus
+56N902417;Kersimon
+56N902418;Kergillet
+56N902419;Bonvallon
+56N902420;Kermestre
+56N902421;Guernéalain
+56N902422;Languidic
+56N902423;Kerblayo
+56N902424;Castello
+56N916501;Métairies
+56N916502;Bel Air
+56N916503;La Corne du Cerf
+56N916504;Saint Isidore
+56N916505;Muzillac-Ouest
+56N916506;Ste Julitte
+56N916507;La Croix de la Lande
+56N916508;Pont Malgoin
+56N916509;Bonnervo
+56N916510;St Léonard
+56N916511;Liziec
+56N916512;Ménimur
+56N916513;Le Fourchêne
+56N916514;Luscanen
+56N916515;Ploeren
+56N916516;Plougoumelen
+56N916517;Kerfontaine
+56N916518;Poulben
+56N916519;Kerbois
+56N916520;Brégouharn
+56N916521;Poulvern
+56N916522;Mané-Gouélo
+56N916523;Mané-Krapign
+56N916524;Boul Sapin
+56N916525;Le Pré aux étangs
+56N916526;Locoyarn
+56N916527;Toul-Douar
+56N916528;Lann-Sévelin
+56N916529;Kerdual
+56N916530;Mourillon
+56N916531;Pen-Mané
+56N916601;Tréalvé
+56N916602;Kerboulard
+56N916603;Lamboux
+56N916604;Le Guého
+56N916605;Kerchou
+56N916606;La Croix Rouge
+56N916607;Bel-Orient
+56N916608;Le Gros Chêne
+56N916609;Val d'Oust
+56N916610;Le Crévy
+56N916611;Montertelot-Est
+56N916612;Montertelot-Ouest
